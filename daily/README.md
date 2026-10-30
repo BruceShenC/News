@@ -5,6 +5,7 @@
 ## 2026-10-30
 
 - [AI 独立 Skill 热度双榜](2026-10-30/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-10-30/llm-agent-quality.md)
 
 ## 2026-10-29
 
