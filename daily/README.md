@@ -2,6 +2,10 @@
 
 [返回总索引](../README.md)
 
+## 2026-10-31
+
+- [AI 独立 Skill 热度双榜](2026-10-31/ai-skills-ranking.md)
+
 ## 2026-10-30
 
 - [Agent 与大模型技术热点](2026-10-30/agent-model-tech.md)
