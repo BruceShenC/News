@@ -4,6 +4,7 @@
 
 ## 2026-11-01
 
+- [GitHub 整体与 AI 趋势](2026-11-01/github-trends.md)
 - [大模型与 Agent 质量、测试与工程资讯](2026-11-01/llm-agent-quality.md)
 
 ## 2026-10-31
