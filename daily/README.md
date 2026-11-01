@@ -4,6 +4,7 @@
 
 ## 2026-11-01
 
+- [Agent 与大模型技术热点](2026-11-01/agent-model-tech.md)
 - [GitHub 整体与 AI 趋势](2026-11-01/github-trends.md)
 - [大模型与 Agent 质量、测试与工程资讯](2026-11-01/llm-agent-quality.md)
 
