@@ -2,6 +2,10 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-02
+
+- [GitHub 整体与 AI 趋势](2026-11-02/github-trends.md)
+
 ## 2026-11-01
 
 - [AI 独立 Skill 热度双榜](2026-11-01/ai-skills-ranking.md)
