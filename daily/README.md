@@ -2,6 +2,13 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-03
+
+- [Agent 与大模型技术热点](2026-11-03/agent-model-tech.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-03/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-03/github-trends.md)
+- [AI 独立 Skill 热度双榜](2026-11-03/ai-skills-ranking.md)
+
 ## 2026-11-02
 
 - [Agent 与大模型技术热点](2026-11-02/agent-model-tech.md)
