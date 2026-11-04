@@ -4,6 +4,7 @@
 
 按北京时间日期倒序排列。历史状态、Stars 和测试结论以各期注明的观察窗口为准。
 
+- [2026-11-04](../../daily/2026-11-04/agent-model-tech.md)
 - [2026-11-03](../../daily/2026-11-03/agent-model-tech.md)
 - [2026-11-02](../../daily/2026-11-02/agent-model-tech.md)
 - [2026-11-01](../../daily/2026-11-01/agent-model-tech.md)
