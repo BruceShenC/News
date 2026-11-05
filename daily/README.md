@@ -5,6 +5,7 @@
 ## 2026-11-05
 
 - [Agent 与大模型技术热点](2026-11-05/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-05/ai-skills-ranking.md)
 
 ## 2026-11-04
 
