@@ -2,6 +2,10 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-05
+
+- [Agent 与大模型技术热点](2026-11-05/agent-model-tech.md)
+
 ## 2026-11-04
 
 - [Agent 与大模型技术热点](2026-11-04/agent-model-tech.md)
