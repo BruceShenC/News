@@ -4,6 +4,7 @@
 
 ## 2026-11-06
 
+- [GitHub 整体与 AI 趋势](2026-11-06/github-trends.md)
 - [AI 独立 Skill 热度双榜](2026-11-06/ai-skills-ranking.md)
 - [Agent 与大模型技术热点](2026-11-06/agent-model-tech.md)
 
