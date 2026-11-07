@@ -74,7 +74,7 @@ Issue #5915于11月7日08:05公开；相关PR #5802最初于11月4日创建，11
 
 来源：[缺梯度报告](https://github.com/pytorch/torchtitan/issues/5915)；[候选修改及验证范围](https://github.com/pytorch/torchtitan/pull/5802)；[已通过的8-GPU集成CI](https://github.com/pytorch/torchtitan/actions/runs/42316587012)。
 
-**7. AI辅助测试：给Agent更好的代码地图，生成有效测试的提升仍小于额外成本**
+**7. AI辅助测试：代码地图让复现测试率小幅变化，token与耗时却普遍增加**
 
 近7日研究补充：York University的“How Should Agents See Code?”于11月5日提交预印本。它固定Claude Code/Haiku 4.5，对比原始文件/搜索工具与AST、调用图、依赖图、文档及混合代码视图。
 
