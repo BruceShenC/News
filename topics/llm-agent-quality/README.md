@@ -4,6 +4,7 @@
 
 按北京时间日期倒序排列。历史状态、Stars 和测试结论以各期注明的观察窗口为准。
 
+- [2026-11-09](../../daily/2026-11-09/llm-agent-quality.md)
 - [2026-11-08](../../daily/2026-11-08/llm-agent-quality.md)
 - [2026-11-07](../../daily/2026-11-07/llm-agent-quality.md)
 - [2026-11-06](../../daily/2026-11-06/llm-agent-quality.md)
