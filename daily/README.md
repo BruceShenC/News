@@ -2,9 +2,89 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-19
+
+- [Agent 与大模型技术热点](2026-11-19/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-19/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-19/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-19/github-trends.md)
+
+## 2026-11-18
+
+- [Agent 与大模型技术热点](2026-11-18/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-18/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-18/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-18/github-trends.md)
+
+## 2026-11-17
+
+- [Agent 与大模型技术热点](2026-11-17/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-17/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-17/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-17/github-trends.md)
+
+## 2026-11-16
+
+- [Agent 与大模型技术热点](2026-11-16/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-16/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-16/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-16/github-trends.md)
+
+## 2026-11-15
+
+- [Agent 与大模型技术热点](2026-11-15/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-15/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-15/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-15/github-trends.md)
+
+## 2026-11-14
+
+- [Agent 与大模型技术热点](2026-11-14/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-14/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-14/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-14/github-trends.md)
+
+## 2026-11-13
+
+- [Agent 与大模型技术热点](2026-11-13/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-13/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-13/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-13/github-trends.md)
+
+## 2026-11-12
+
+- [Agent 与大模型技术热点](2026-11-12/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-12/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-12/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-12/github-trends.md)
+
+## 2026-11-11
+
+- [Agent 与大模型技术热点](2026-11-11/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-11/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-11/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-11/github-trends.md)
+
+## 2026-11-10
+
+- [Agent 与大模型技术热点](2026-11-10/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-10/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-10/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-10/github-trends.md)
+
+## 2026-11-09
+
+- [Agent 与大模型技术热点](2026-11-09/agent-model-tech.md)
+- [AI 独立 Skill 热度双榜](2026-11-09/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-09/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-09/github-trends.md)
+
 ## 2026-11-08
 
+- [Agent 与大模型技术热点](2026-11-08/agent-model-tech.md)
 - [AI 独立 Skill 热度双榜](2026-11-08/ai-skills-ranking.md)
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-08/llm-agent-quality.md)
+- [GitHub 整体与 AI 趋势](2026-11-08/github-trends.md)
 
 ## 2026-11-07
 
