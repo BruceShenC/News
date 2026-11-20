@@ -2,6 +2,10 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-20
+
+- [GitHub 整体与 AI 趋势](2026-11-20/github-trends.md)
+
 ## 2026-11-19
 
 - [Agent 与大模型技术热点](2026-11-19/agent-model-tech.md)
