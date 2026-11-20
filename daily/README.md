@@ -4,6 +4,7 @@
 
 ## 2026-11-20
 
+- [AI 独立 Skill 热度双榜](2026-11-20/ai-skills-ranking.md)
 - [GitHub 整体与 AI 趋势](2026-11-20/github-trends.md)
 
 ## 2026-11-19
