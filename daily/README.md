@@ -2,6 +2,10 @@
 
 [返回总索引](../README.md)
 
+## 2026-11-22
+
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-22/llm-agent-quality.md)
+
 ## 2026-11-21
 
 - [大模型与 Agent 质量、测试与工程资讯](2026-11-21/llm-agent-quality.md)
