@@ -4,6 +4,7 @@
 
 按北京时间日期倒序排列。历史状态、Stars 和测试结论以各期注明的观察窗口为准。
 
+- [2026-11-24](../../daily/2026-11-24/ai-skills-ranking.md)
 - [2026-11-23](../../daily/2026-11-23/ai-skills-ranking.md)
 - [2026-11-22](../../daily/2026-11-22/ai-skills-ranking.md)
 - [2026-11-21](../../daily/2026-11-21/ai-skills-ranking.md)
