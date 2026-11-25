@@ -4,6 +4,7 @@
 
 ## 2026-11-25
 
+- [Agent 与大模型技术热点](2026-11-25/agent-model-tech.md)
 - [大模型与 Agent 质量、测试与工程资讯](2026-11-25/llm-agent-quality.md)
 
 ## 2026-11-24
