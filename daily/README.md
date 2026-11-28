@@ -4,6 +4,7 @@
 
 ## 2026-11-28
 
+- [大模型与 Agent 质量、测试与工程资讯](2026-11-28/llm-agent-quality.md)
 - [AI 独立 Skill 热度双榜](2026-11-28/ai-skills-ranking.md)
 - [GitHub 整体与 AI 趋势](2026-11-28/github-trends.md)
 - [Agent 与大模型技术热点](2026-11-28/agent-model-tech.md)
